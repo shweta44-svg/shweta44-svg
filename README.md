@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shweta44-svg
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on current Web Development technologies
+- 💞️ I’m looking to collaborate on current Machine Learning and NLP tech.
 - 📫 How to reach me shwetashinde961@gmail.com
 
 <!---
